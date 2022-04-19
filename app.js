@@ -61,7 +61,7 @@ const KELVIN = 273
 
 // API KEY
 
-const key = '9ae20b163d0739b9984165f6eb8ef431'
+const key = 
 
 // CHECK IF BROWSER SUPPORTS GEOLOCATION
 
