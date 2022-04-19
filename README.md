@@ -1,0 +1,1 @@
+Simple weather app using open weather api to fetch current weather of current location and search up weathe of other locations
